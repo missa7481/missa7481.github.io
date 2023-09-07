@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  username               : "fosstodon.org/@jayrobw"
+  username               : #"fosstodon.org/@jayrobw"
 twitter:
   username               : 
 facebook:
@@ -86,13 +86,13 @@ analytics:
 author:
   name             : "Zihui Ma"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
+  bio              : "PhD @ UMD"
   location         :
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  orcid            : "http://orcid.org/0000-0002-2836-280X"
+  googlescholar    : "https://scholar.google.com/citations?user=-lWZw2IAAAAJ&hl=en"
+  email            : "zma88@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,15 +101,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "missa7481"
+  gitlab           : #"jayrobwilliams"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  mastodon         : "fosstodon.org/@jayrobw"
+  linkedin         : "Zihui(Helen) Ma"
+  mastodon         : #"fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
