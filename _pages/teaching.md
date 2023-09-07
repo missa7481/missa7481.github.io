@@ -13,7 +13,7 @@ My journey through teaching and mentoring has been a profound and evolving exper
 
 ## course designer
 
-Edx course: Developing the Risk Management Plan with Expert Judgement (https://www.edx.org/learn/engineering/the-university-of-maryland-college-park-developing-the-risk-management-plan-with-expert-judgement) 
+Edx course: Developing the [Risk Management Plan with Expert Judgement] (https://www.edx.org/learn/engineering/the-university-of-maryland-college-park-developing-the-risk-management-plan-with-expert-judgement) 
 
 ## Mentor 
 - Topic 1: "Impact of hurricanes on healthcare facilities" for one graduate student
