@@ -8,16 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Greeting! I am a Ph.d. candidate in the deparment of civil and environmental engineering (CEE) at the University of Maryland, currently conducting reserach as part of [Dr.Baecher's](https://cee.umd.edu/clark/faculty/244/Gregory-B-Baecher) esteemed reserach group. I am also a research collaborator with the 
-[Risk-Informed Solutions in Engineering Laboratory](https://riselab.umd.edu/).
+Greeting! I am a Ph.D. candidate in the deparment of civil and environmental engineering (CEE) at the University of Maryland (UMD), currently conducting reserach as part of [Dr.Baecher's](https://cee.umd.edu/clark/faculty/244/Gregory-B-Baecher) esteemed reserach group. I am also a research collaborator with the 
+[Risk-Informed Solutions in Engineering Laboratory](https://riselab.umd.edu/). I received an M.S.in civil engineering in project management from UMD in 2020 and M.S.in civil engineering in structure engineering from San Franciso State University (SFSU) in 2018. 
 
-My primary research thrust revolves around the effective utilization of human-generated data, with a specific
-emphasis on harnessing crowdsourced information. My objective is twofold: firstly, to advance our comprehension
-of community resilience and to facilitate informed decision-making and management strategies for
-natural disasters and unforeseen events. Secondly, to explore citizen awareness of climate change adaptations,
-with a vision of contributing to a sustainable future. At the core of my research lies a robust data-driven
-framework, encompassing cutting-edge techniques such as machine learning, deep learning, and epidemic
-modeling. My research interest extends across several pivotal domains: computational simulations for infrastructure
-reliability, AI-enabled risk assessment and monitoring, and transforming education with AI.
+My academic work has been published or is forthcoming in International Journal of Disaster Risk Reduction,Journal of Biomedical Informatics, Journal of Construction Engineering and Management,Fire Safety Journal and Journal of Air Transport Management, among other outlets. These reseraches harnessing the crowdsouring information to emphasis the informed decition-making during emergency management, with the goal to build reliability and sustaibility communities. 
+
+
 
 
