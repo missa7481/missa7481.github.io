@@ -21,3 +21,4 @@ Edx course: [Developing the Risk Management Plan with Expert Judgement](https://
 - Topic 3: "Misinformation in pandemic" for one undergraduate student 
 
 
+Central to my teaching and mentoring philosophy is the commitment to fostering inclusive classroom environments that actively embrace diversity and encourage open dialogue. I am dedicated to ensuring that every student, regardless of their background, feels empowered to express their ideas and participate in critical discussions.
