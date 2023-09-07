@@ -11,7 +11,7 @@ My journey through teaching and mentoring has been a profound and evolving exper
 - Introduction to Construction Management (ENCE325)
 - Legal Aspects of Architectural and Engineering Practice (ENCE425)
 
-## course designer
+## Course Designer
 
 Edx course: [Developing the Risk Management Plan with Expert Judgement](https://www.edx.org/learn/engineering/the-university-of-maryland-college-park-developing-the-risk-management-plan-with-expert-judgement). 
 
