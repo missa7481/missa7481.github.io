@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Greeting! I am a Ph.d. candidate in the deparment of civil and environmental engineering (CEE) at the University of Maryland, currently conducting reserach as part of Dr.Baecher's esteemed reserach group. I am also a research collaborator with the 
+[Risk-Informed Solutions in Engineering Laboratory](https://riselab.umd.edu/).
 
 I earned my Ph.D in Political Science from the
 [University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
