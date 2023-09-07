@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greeting! I am a Ph.d. candidate in the deparment of civil and environmental engineering (CEE) at the University of Maryland, currently conducting reserach as part of Dr.Baecher's esteemed reserach group. I am also a research collaborator with the 
+Greeting! I am a Ph.d. candidate in the deparment of civil and environmental engineering (CEE) at the University of Maryland, currently conducting reserach as part of [Dr.Baecher's](https://cee.umd.edu/clark/faculty/244/Gregory-B-Baecher) esteemed reserach group. I am also a research collaborator with the 
 [Risk-Informed Solutions in Engineering Laboratory](https://riselab.umd.edu/).
 
 My primary research thrust revolves around the effective utilization of human-generated data, with a specific
