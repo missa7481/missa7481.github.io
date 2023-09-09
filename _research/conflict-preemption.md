@@ -1,7 +1,7 @@
 ---
 title: "Wildfire SA evaluation"
 layout: single-portfolio
-excerpt: "<img src='/images/research/epr.png' alt=''>"
+excerpt: "<img src='/images/research/sir.png' alt=''>"
 collection: research
 order_number: 10
 header: 
@@ -12,8 +12,8 @@ This research focus on leveraging social media data (i.e. Twitter) to comprehens
 
 ## Article
 
-Rob Williams. "Turning the Lights on to Keep Them in the Fold: How Governments Preempt Secession Attempts." *Conflict management and Peace Science*.
+Ma, Z.*, Li, L., Hemphill, L., & Baecher, G. B. (2023). "Investigating disaster response through social media data and the Susceptible-Infected-Recovered (SIR) model: A case study of 2020 Western U.S. wildfire season." 
 
-> There are many regions that meet the necessary conditions for sovereign governance in the world, but few secessionist conflicts. I argue that this relative paucity of secessionist violence is the result of government preemption of potential secessionist movements. Using cross-national geospatial data from 1992 to 2013, I find that governments invest more, measured via nighttime light emissions, in more secession-prone regions. The same factors that make territory attractive for secession, such as large populations and international borders, also make governments willing to work to retain control of that territory, contributing to the scarcity of separatist civil conflicts.
+> Effective disaster response is critical for affected communities. Responders and decision-makers would benefit from reliable, timely measures of the issues impacting their communities during a disaster, and social media offers a potentially rich data source. Social media can reflect public concerns and demands during a disaster, offering valuable insights for decision-makers to understand evolving situations and optimize resource allocation. We used Bidirectional Encoder Representations from Transformers (BERT) topic modeling to cluster topics from Twitter data. Then, we conducted a temporal-spatial analysis to examine the distribution of these topics across different regions during the 2020 western U.S. wildfire season. Our results show that Twitter users mainly focused on three topics:"health impact," "damage," and "evacuation." We used the Susceptible-Infected-Recovered (SIR) theory to explore the magnitude and velocity of topic diffusion on Twitter. The results displayed a clear relationship between topic trends and wildfire propagation patterns. The estimated parameters obtained from the SIR model in selected cities revealed that residents exhibited a high level of several concerns during the wildfire. Our study details how the SIR model and topic modeling using social media data can provide decision-makers with a quantitative approach to measure disaster response and support their decision-making processes.
 
-[Article](https://doi.org/10.1177/07388942211015242){: .btn--research} [Preprint](/files/pdf/research/Turning the Lights on.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Turning the Lights on SI.pdf){: .btn--research} [Replication Archive](https://journals.sagepub.com/doi/suppl/10.1177/07388942211015242){: .btn--research} [GitHub Repo](https://github.com/jayrobwilliams/conflict-preemption){: .btn--research} [Poster](/files/pdf/research/PSS 2018 Poster.pdf){: .btn--research}
+[Preprint](https://doi.org/10.48550/arXiv.2308.05281){: .btn--research} 
