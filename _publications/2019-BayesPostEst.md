@@ -1,10 +1,9 @@
 ---
-title: "BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation"
+title: "Leveraging social media data to study the community resilience of New York City to 2019 power outage"
 collection: publications
 permalink: /publication/2019-bayespostest
-date: 2019-10-01
-venue: 'Journal of Open Source Software'
-paperurl: '/files/pdf/research/BayesPostEst.pdf'
-link: 'https://doi.org/10.21105/joss.01722'
-citation: 'Scogin, Shana, Johannes Karreth, Andreas Beger, and Rob Williams. 2019. &quot;BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation.&quot; <i>Journal of Open Source Software</i> 4(42): 1722. doi:10.21105/joss.01722'
+date: 2020
+venue: 'International Journal of Disaster Risk Reduction'
+link: 'https://doi.org/10.1016/j.ijdrr.2020.101776'
+citation: 'Li, L., Ma, Z., & Cao, T. 2020. &quot;Leveraging social media data to study the community resilience of New York City to 2019 power outage.&quot; <i>International Journal of Disaster Risk Reduction</i> 51, 101776. https://doi.org/10.1016/j.ijdrr.2020.101776'
 ---
