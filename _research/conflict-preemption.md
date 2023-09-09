@@ -1,11 +1,11 @@
 ---
 title: "Wildfire SA evaluation"
 layout: single-portfolio
-excerpt: "<img src='/images/research/sir.png' alt=''>"
+excerpt: "<img src='/images/research/epr.png' alt=''>"
 collection: research
 order_number: 10
 header: 
-  og_image: "research/sir.png"
+  og_image: "research/epr.png"
 ---
 
 This research focus on leveraging social media data (i.e. Twitter) to comprehensively assess public dynamic situational awareness during 2020 wildfire season at the city-level. In this study, I employed Bidirection-al Encoder Representations from Transformers (BERT) topic modeling to cluster Twitter data and conducted a temporal-spatial analysis to understand topic distribution across various regions. Additionally, I integrated the Susceptible-Infected-Recovered (SIR) model to quantitatively measure the extent and speed of topic diffusion, facilitating more precise resource allocation. The results of the temporal-spatial analysis highlighted a close alignment between topic diffusion and wildfire locations and timelines, showcasing the real-time nature of Twitter discussions in response to unfolding events. Moreover, the findings from the topic-based SIR model revealed that the pace of topic diffusion corresponded with wildfire propagation patterns, reflecting varying levels of public awareness and responses. Furthermore, the study underscored the diversity of concerns expressed by different communities, emphasizing the need to tailor disaster responses to meet local needs effectively. 
