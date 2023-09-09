@@ -1,5 +1,5 @@
 ---
-title: "Blackout Community Resilience Assessment"
+title: "Community Resilience"
 layout: single-portfolio
 excerpt: "<img src='/images/research/nyc.png' alt=''>"
 collection: research
