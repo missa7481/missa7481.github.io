@@ -1,25 +1,19 @@
 ---
-title: "Social media data"
+title: "System Reliability"
 layout: single-portfolio
-excerpt: "<img src='/images/research/ternary.png' alt=''>"
+excerpt: "<img src='/images/research/dam.png' alt=''>"
 collection: research
 order_number: 40
 header: 
-  og_image: "research/ternary.png"
+  og_image: "research/dam.png"
 ---
 
-In these projects I leverage social media data to study the early stages of
-radicalization and participation in extremist movements. In one, I use geocoded
-videos uploads to explore the relationship between American military fatalities
-overseas and far-right mobilization. The other applies computer vision
-techniques to recruitment videos from groups within the Salafi Jihadi movement
-to study how different groups within a broader clandestine movement use
-rhetorical strategies to communicate to a broad pool of potential supporters.
+My master’s thesis project, supported by the US Army Corps of Engineers (USACE), entailed constructing a Monte Carlo simulation model for the reliability analysis of dam operations on the Missouri River. This initiative yielded novel insights into the role of systems engineering practices in dam operations, consequently enhancing the modeling techniques employed in dam safety studies. 
 
-## Working paper
+## Conference paper
 
-Richard McAlexander, Rob Williams, and Michael Rubin. "They’re Still There, He’s All Gone: American Fatalities in Foreign Wars and Right-Wing Radicalization at Home."
+<Zihui Ma>, Robert C. Patev, Lingyao Li, Gregory B. Baecher. "Missouri River System Simulation", US Society on Dams Annual Conference, San Diego, April 11-14. 
 
 > What explains right-wing radicalization in the US? Research shows that demographic changes and economic decline both drive support for the far-right. We contribute to this research agenda by 1) studying the elusive early stages in the process of radicalization and 2) highlighting an additional factor that contributes to right-wing radicalization in the US: the impact of foreign wars on society at home. We argue that the communities that bear the greatest costs of foreign wars are most prone to high rates of right-wing radicalization. To support this claim, we present robust correlations between participation in the far-right social media website Parler and fatalities among residents who served in the US wars in Iraq and Afghanistan. This correlation holds at both the county and census tract level, and persists after controlling for the level of military service in an area. The costs of the US's foreign wars have important effects on domestic US politics.
 
-[Working Paper](https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/61115b4018911da2f6dd1def/original/they-re-still-there-he-s-all-gone-american-fatalities-in-foreign-wars-and-right-wing-radicalization-at-home.pdf){: .btn--research} [Supplemental Information](https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/61115c914cb47968ba2bb2d8/original/appendix-for-they-re-still-there-he-s-all-gone-american-fatalities-in-foreign-wars-and-right-wing-radicalization-at-home.pdf){: .btn--research}
+[Conference Paper](https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/61115b4018911da2f6dd1def/original/they-re-still-there-he-s-all-gone-american-fatalities-in-foreign-wars-and-right-wing-radicalization-at-home.pdf){: .btn--research} [Supplemental Information](https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/61115c914cb47968ba2bb2d8/original/appendix-for-they-re-still-there-he-s-all-gone-american-fatalities-in-foreign-wars-and-right-wing-radicalization-at-home.pdf){: .btn--research}
