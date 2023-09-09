@@ -1,11 +1,11 @@
 ---
 title: "Blackout Community Resilience Assessment"
 layout: single-portfolio
-excerpt: "<img src='/images/research/map.png' alt=''>"
+excerpt: "<img src='/images/research/nyc.png' alt=''>"
 collection: research
 order_number: 20
 header: 
-  og_image: "research/map.png"
+  og_image: "research/nyc.png"
 ---
 
 The public’s responses to sudden power outages offer valuable insights into a community’s ability to adapt and recover from crises. In this project, we proposed a framework to analyze sentiment and behavioral patterns, assessing community resilience during the 2019 New York City blackout. Through the identification of six distinct behavioral types (including “seek information,” “adjust schedules,” “find shelter,” “enjoy the situation,” “engage in altruistic acts,” and “report incidents”), we introduced an index to track shifts in public responses over time. Our analysis of these trending indexes revealed that New York City residents rapidly adjusted their routines, suggesting a robust community resilience in the face of the power outage. This study not only advances the methodologies employed in emergency management research but also contributes to our understanding of community resilience during emergency events. 
