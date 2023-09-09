@@ -15,7 +15,7 @@ with a vision of contributing to a sustainable future. At the core of my researc
 framework, encompassing cutting-edge techniques such as machine learning, deep learning, and epidemic
 modeling. My research interest extends across several pivotal domains: computational simulations for infrastructure
 reliability, AI-enabled risk assessment and monitoring, and transforming education with AI.
-
+111
 
 <nbsp>
 
