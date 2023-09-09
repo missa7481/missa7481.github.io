@@ -1,5 +1,5 @@
 ---
-title: "Wildfire SA assessment"
+title: "Situational Awareness"
 layout: single-portfolio
 excerpt: "<img src='/images/research/sir.png' alt=''>"
 collection: research
