@@ -1,5 +1,5 @@
 ---
-title:"Policy uptake"
+title: "Policy uptake"
 layout: single-portfolio
 excerpt: "<img src='/images/research/lockdown.png' alt=''>"
 collection: research
