@@ -19,3 +19,10 @@ Zihui Ma, Lingyao Li, Libby Hemphill, Greagy B. Baecher. "Investigating disaster
 > Effective disaster response is critical for affected communities. Responders and decision-makers would benefit from reliable, timely measures of the issues impacting their communities during a disaster, and social media offers a potentially rich data source. Social media can reflect public concerns and demands during a disaster, offering valuable insights for decision-makers to understand evolving situations and optimize resource allocation. We used Bidirectional Encoder Representations from Transformers (BERT) topic modeling to cluster topics from Twitter data. Then, we conducted a temporal-spatial analysis to examine the distribution of these topics across different regions during the 2020 western U.S. wildfire season. Our results show that Twitter users mainly focused on three topics:"health impact," "damage," and "evacuation." We used the Susceptible-Infected-Recovered (SIR) theory to explore the magnitude and velocity of topic diffusion on Twitter. The results displayed a clear relationship between topic trends and wildfire propagation patterns. The estimated parameters obtained from the SIR model in selected cities revealed that residents exhibited a high level of several concerns during the wildfire. Our study details how the SIR model and topic modeling using social media data can provide decision-makers with a quantitative approach to measure disaster response and support their decision-making processes.
 
 [Preprint](https://doi.org/10.48550/arXiv.2308.05281){: .btn--research} 
+
+## Conference proceedings 
+Zihui Ma, Lingyao Li, Yubai Yuan, Greagy B. Baecher. (2023) "Appraising Situational Awareness in Social Media Data for Wildfire Response." ASCE Inspire conference, Arlington, Virginia, November 16 – 18, 2023. 
+
+
+
+
