@@ -12,7 +12,7 @@ emphasis on harnessing crowdsourced information. My objective is twofold: firstl
 of community resilience and to facilitate informed decision-making and management strategies for
 natural disasters and unforeseen events. Secondly, to explore the nexus of humans, infrastructure, and climate change in urban environments,
 with a vision of contributing to a sustainable future. At the core of my research lies a robust data-driven
-framework, encompassing cutting-edge techniques such as machine learning, deep learning, and epidemic
+framework, encompassing cutting-edge techniques such as machine learning, deep learning, computiational network and epidemic
 modeling. My research interest extends across several pivotal domains: computational simulations for infrastructure
 reliability, AI-enabled risk assessment and monitoring, and transforming education with AI.
 
