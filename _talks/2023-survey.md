@@ -1,7 +1,7 @@
 ---
 title: "The impact of the COVID-19 Pandemic on Student’s expectations"
 collection: talks
-type: "Talk (accepted)"
+type: "Talk"
 permalink: /talks/2023-survey
 venue: "Affordable Degrees-at-Scale Symposium,"
 date: 2023-12-04
