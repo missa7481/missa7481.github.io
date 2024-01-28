@@ -24,6 +24,8 @@ Online Media
 ======
 * Our research work reported by [Engineering at Maryland](https://eng.umd.edu/disaster-pending)
 
+Research Highlights
+======
 <nbsp>
 
 {% include base_path %}
