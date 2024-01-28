@@ -16,28 +16,6 @@ framework, encompassing cutting-edge techniques such as machine learning, deep l
 modeling. My research interest extends across several pivotal domains: computational simulations for infrastructure
 reliability, AI-enabled risk assessment and monitoring, and transforming education with AI.
 
-Awards
-======
-* [Thomas Fitch Rowland Prize](https://www-asce-org.proxy-um.researchport.umd.edu/career-growth/awards-and-honors/thomas-fitch-rowland-prize), ASCE’s Construction Institute, 2024.
-* Future Faculty Fellowship (travel fund $2500), University of Maryland, College Park, 2022.
-* Undergraduate Seismic Design Competition (Rank #28), Earthquake Engineering Research Institute (EERI), 2015.
-* Foreign Exchange Scholarship (First-class award ￥30,000),Zhejiang University of Science and Technology, 2013
-
-***
-
-Reviews
-======
-* **Journal Article Reviewer**
-  * <span style="color: green">**Natural Hazard and Risk Management**</span>: International Journal of Disaster Risk Reduction; Natural Hazard Review
-  * <span style="color: green">**Urban Planning**</span>: Sustainable Cities and Society; Cities;International Journal of Transportation Science and Technology
-  * <span style="color: green">**Artificial Intelligence Technology**</span>: Intelligent Automation & Soft Computing;Computers, Materials & Continua
-  * <span style="color: green">**Higher Education**</span>: The Internet and Higher Education
-    
-* **Conference Proceeding Reviewer**
-  * 12NCEE National Conference on Earthquake Engineering
-    
-
-
 <nbsp>
 
 {% include base_path %}
