@@ -18,3 +18,18 @@ My primary research thrust revolves around effectively utilizing **human-generat
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
+
+Reviews
+======
+* **Journal Article Reviewer**
+  * <span style="color: green">**Natural Hazard and Risk Management**</span>: International Journal of Disaster Risk Reduction; Natural Hazard Review
+  * <span style="color: green">**Urban Planning**</span>: Sustainable Cities and Society; Cities; International Journal of Transportation Science and Technology
+  * <span style="color: green">**Artificial Intelligence Technology**</span>: Intelligent Automation & Soft Computing;Computers, Materials & Continua
+  * <span style="color: green">**Higher Education**</span>: The Internet and Higher Education
+    
+* **Conference Proceeding Reviewer**
+  * 12NCEE National Conference on Earthquake Engineering
+    
+Online Media
+======
+* Our research work reported by [Engineering at Maryland](https://eng.umd.edu/disaster-pending)
