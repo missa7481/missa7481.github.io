@@ -7,14 +7,35 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My primary research thrust revolves around the effective utilization of human-generated data, with a specific
-emphasis on harnessing crowdsourced information. My objective is twofold: firstly, to advance our comprehension
+My primary research thrust revolves around the effective utilization of **human-generated data**, with a specific
+emphasis on harnessing crowdsourced information. My objective is twofold: <span style="color: green"> firstly </span>, to advance our comprehension
 of community resilience and to facilitate informed decision-making and management strategies for
-natural disasters and unforeseen events. Secondly, to explore the nexus of humans, infrastructure, and climate change in urban environments,
+natural disasters and unforeseen events. <span style="color: green"> Secondly </span>, to explore the nexus of humans, infrastructure, and climate change in urban environments,
 with a vision of contributing to a sustainable future. At the core of my research lies a robust data-driven
-framework, encompassing cutting-edge techniques such as machine learning, deep learning, network analysis and epidemic
+framework, encompassing cutting-edge techniques such as machine learning, deep learning, network analysis, and epidemic
 modeling. My research interest extends across several pivotal domains: computational simulations for infrastructure
 reliability, AI-enabled risk assessment and monitoring, and transforming education with AI.
+
+Awards
+======
+* [Thomas Fitch Rowland Prize](https://www-asce-org.proxy-um.researchport.umd.edu/career-growth/awards-and-honors/thomas-fitch-rowland-prize), ASCE’s Construction Institute, 2024.
+* Future Faculty Fellowship (travel fund $2500), University of Maryland, College Park, 2022.
+* Undergraduate Seismic Design Competition (Rank #28), Earthquake Engineering Research Institute (EERI), 2015.
+* Foreign Exchange Scholarship (First-class award ￥30,000),Zhejiang University of Science and Technology, 2013
+
+***
+
+Reviews
+======
+* **Journal Article Reviewer**
+  * <span style="color: green">**Natural Hazard and Risk Management**</span>: International Journal of Disaster Risk Reduction; Natural Hazard Review
+  * <span style="color: green">**Urban Planning**</span>: Sustainable Cities and Society; Cities;International Journal of Transportation Science and Technology
+  * <span style="color: green">**Artificial Intelligence Technology**</span>: Intelligent Automation & Soft Computing;Computers, Materials & Continua
+  * <span style="color: green">**Higher Education**</span>: The Internet and Higher Education
+    
+* **Conference Proceeding Reviewer**
+  * 12NCEE National Conference on Earthquake Engineering
+    
 
 
 <nbsp>
