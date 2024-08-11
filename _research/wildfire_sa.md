@@ -1,5 +1,5 @@
 ---
-title: "Situational Awareness"
+title: "Appraising Situational Awareness"
 layout: single-portfolio
 excerpt: "<img src='/images/research/sir.png' alt=''>"
 collection: research
