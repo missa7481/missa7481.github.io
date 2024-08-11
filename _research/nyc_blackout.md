@@ -1,5 +1,5 @@
 ---
-title: "Community Resilience"
+title: "Community Resilience Assessment"
 layout: single-portfolio
 excerpt: "<img src='/images/research/nyc.png' alt=''>"
 collection: research
