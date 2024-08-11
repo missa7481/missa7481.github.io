@@ -1,5 +1,5 @@
 ---
-title: "System Reliability"
+title: "System Reliability Modeling"
 layout: single-portfolio
 excerpt: "<img src='/images/research/dam.png' alt=''>"
 collection: research
