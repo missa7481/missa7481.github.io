@@ -16,9 +16,9 @@ My primary research thrust revolves around effectively utilizing **human-generat
 Professional Services
 ======
 * **Journal Article Reviewer**
-  * <span style="color: green">**Natural Hazard and Risk Management**</span>: International Journal of Disaster Risk Reduction; Natural Hazard Review
+  * <span style="color: green">**Natural Hazard and Risk Management**</span>: International Journal of Disaster Risk Reduction; Natural Hazard Review; Progress in Disaster Science 
   * <span style="color: green">**Urban Planning**</span>: Sustainable Cities and Society; Cities; International Journal of Transportation Science and Technology
-  * <span style="color: green">**Artificial Intelligence Technology**</span>: Intelligent Automation & Soft Computing;Computers, Materials & Continua
+  * <span style="color: green">**Artificial Intelligence Technology**</span>: Intelligent Automation & Soft Computing;Computers, Materials & Continua, PeerJ Computer Science 
   * <span style="color: green">**Higher Education**</span>: The Internet and Higher Education
     
 * **Conference Proceeding Reviewer**
