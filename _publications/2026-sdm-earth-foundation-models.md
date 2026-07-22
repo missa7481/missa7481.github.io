@@ -7,6 +7,10 @@ venue: 'SIAM International Conference on Data Mining (SDM26) — under review'
 link: 'https://doi.org/10.48550/arXiv.2604.1684'
 pillar: reason
 pub_type: ai_conference
+conference_status: under_review
+venue_short: 'SDM'
+card_summary: 'Earth foundation models combined with diffusion methods for high-resolution land-surface-temperature reconstruction.'
+ai_topics: ['Foundation models', 'Diffusion', 'Remote sensing']
 citation: 'Chen, Y., Ma, Z., Jiang, P., Dai, Y., Hu, Q., Ye, X., Li, L., Sousa, R., & Yu, L. (2026). When Earth Foundation Models Meet Diffusion: An Application to Land Surface Temperature Super-Resolution. <i>Submitted to the SIAM International Conference on Data Mining (SDM26)</i>. Under review. <a href="https://doi.org/10.48550/arXiv.2604.1684">arXiv:2604.1684</a>.'
 ---
 

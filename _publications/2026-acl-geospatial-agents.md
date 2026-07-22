@@ -7,6 +7,10 @@ venue: 'Findings of the Association for Computational Linguistics: ACL 2026'
 link: '/files/pdf/research/Geospatial-LLM-Agents.pdf'
 pillar: reason
 pub_type: ai_conference
+conference_status: accepted
+venue_short: 'ACL Findings'
+card_summary: 'Geospatially grounded LLM agents that reason over terrain, infrastructure, demographics, and weather for wildfire response.'
+ai_topics: ['LLM agents', 'GeoAI', 'Disaster response']
 citation: 'Chen, Y., Li, L., Ma, Z., Hu, Q., Zhu, Y., Deng, M., & Yu, R. (2026). Empowering LLM Agents with Geospatial Awareness: Toward Grounded Reasoning for Wildfire Response. <i>Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</i>.'
 ---
 
