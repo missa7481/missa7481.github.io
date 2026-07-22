@@ -18,14 +18,40 @@ header:
 {% include base_path %}
 {% assign ordered_pages = site.research | sort:"order_number" %}
 
-### Sense
-<div class="grid__wrapper zm-research-grid">{% for post in ordered_pages %}{% if post.pillar == "sense" %}{% include archive-single.html type="grid" %}{% endif %}{% endfor %}</div>
+<div class="zm-research-accordions">
+  <details class="zm-research-accordion">
+    <summary>
+      <span class="zm-pillar-number">01</span>
+      <span class="zm-pillar-copy"><strong>Sense</strong><small>Capture timely human, environmental, and infrastructure signals.</small></span>
+      <span class="zm-pillar-action">View projects</span>
+    </summary>
+    <div class="zm-pillar-projects">
+      <div class="grid__wrapper zm-research-grid">{% for post in ordered_pages %}{% if post.pillar == "sense" %}{% include archive-single.html type="grid" %}{% endif %}{% endfor %}</div>
+    </div>
+  </details>
 
-### Reason
-<div class="grid__wrapper zm-research-grid">{% for post in ordered_pages %}{% if post.pillar == "reason" %}{% include archive-single.html type="grid" %}{% endif %}{% endfor %}</div>
+  <details class="zm-research-accordion">
+    <summary>
+      <span class="zm-pillar-number">02</span>
+      <span class="zm-pillar-copy"><strong>Reason</strong><small>Build grounded, interpretable AI across language, geography, and systems.</small></span>
+      <span class="zm-pillar-action">View projects</span>
+    </summary>
+    <div class="zm-pillar-projects">
+      <div class="grid__wrapper zm-research-grid">{% for post in ordered_pages %}{% if post.pillar == "reason" %}{% include archive-single.html type="grid" %}{% endif %}{% endfor %}</div>
+    </div>
+  </details>
 
-### Act
-<div class="grid__wrapper zm-research-grid">{% for post in ordered_pages %}{% if post.pillar == "act" %}{% include archive-single.html type="grid" %}{% endif %}{% endfor %}</div>
+  <details class="zm-research-accordion">
+    <summary>
+      <span class="zm-pillar-number">03</span>
+      <span class="zm-pillar-copy"><strong>Act</strong><small>Turn evidence into equitable planning, risk management, and decisions.</small></span>
+      <span class="zm-pillar-action">View projects</span>
+    </summary>
+    <div class="zm-pillar-projects">
+      <div class="grid__wrapper zm-research-grid">{% for post in ordered_pages %}{% if post.pillar == "act" %}{% include archive-single.html type="grid" %}{% endif %}{% endfor %}</div>
+    </div>
+  </details>
+</div>
 
 ## Professional Services
 * **Journal Article Reviewer**
