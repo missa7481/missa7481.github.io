@@ -7,14 +7,15 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-*** 
+<p class="zm-kicker">RESEARCH AGENDA</p>
 
-My primary research thrust revolves around effectively utilizing **human-generated data**, specifically harnessing crowdsourced information. My objective is twofold: <span style="color: green"> Firstly</span>, to advance our comprehension of community resilience and to facilitate informed decision-making and management strategies for natural disasters and unforeseen events. <span style="color: green"> Secondly</span>, to explore the interactions of humans, infrastructure, and climate change in urban environments, with a vision of contributing to a sustainable future. At the core of my research lies robust and data-driven frameworks encompassing cutting-edge techniques such as machine learning, deep learning, network analysis, and epidemic modeling. My research interest extends across several pivotal domains: computational simulations for infrastructure reliability, AI-enabled risk assessment and monitoring, and transforming education with AI.
+<div class="zm-research-intro">My research examines how human-centered AI can understand not only <em>what</em> is happening during a crisis, but <em>where</em>, <em>to whom</em>, and <em>what should happen next</em>. I combine large language models, geospatial analytics, social computing, and systems engineering to model complex human–environment–infrastructure systems.</div>
+
+<div class="zm-method-strip"><span>LLM agents</span><span>Geospatial AI</span><span>Semantic digital twins</span><span>Multimodal learning</span><span>Disaster informatics</span></div>
 
 ***
 
-Professional Services
-======
+## Professional Services
 * **Journal Article Reviewer**
   * <span style="color: green">**Natural Hazard and Risk Management**</span>: International Journal of Disaster Risk Reduction; Natural Hazard Review; Progress in Disaster Science 
   * <span style="color: green">**Urban Planning**</span>: Sustainable Cities and Society; Cities; International Journal of Transportation Science and Technology
@@ -26,14 +27,12 @@ Professional Services
 
 ***
 
-Online Media
-======
+## Online Media
 * Our research work reported by [Engineering at Maryland](https://eng.umd.edu/disaster-pending)
 
 ***
 
-Research Highlights
-======
+## Research Highlights
 <nbsp>
 
 {% include base_path %}

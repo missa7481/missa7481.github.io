@@ -3,9 +3,13 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-My journey through teaching and mentoring has been a profound and evolving experience. 
+<p class="zm-kicker">TEACHING & MENTORING</p>
 
-## Teaching Assistant (mentored over 300 studnets)
+<div class="zm-research-intro">I help students deconstruct complex problems, connect technical ideas to real decisions, and develop confidence through active, project-based learning.</div>
+
+<div class="zm-focus-grid zm-teaching-grid"><article><span>01</span><h3>Context before concept</h3><p>Anchor theory in real-world applications so difficult methods become meaningful.</p></article><article><span>02</span><h3>Design for interaction</h3><p>Use feedback and responsive instruction to make every student an active participant.</p></article><article><span>03</span><h3>Learn through projects</h3><p>Create open-ended spaces for collaboration, confidence, and discovery.</p></article></div>
+
+## Teaching Assistant (mentored over 300 students)
 - Project Cost Accounting and Finance (ENCE661)
 - Introduction to Project Management (ENCE320)
 - Introduction to Construction Management (ENCE325)
@@ -17,7 +21,7 @@ Edx course: [Developing the Risk Management Plan with Expert Judgement](https://
 
 ## Mentor 
 - Topic 1: "Impact of hurricanes on healthcare facilities" for one graduate student
-- Topic 2: "The application of natural language processing in nature disaster” for one undergraduate studnet
+- Topic 2: "The application of natural language processing in natural disasters” for one undergraduate student
 - Topic 3: "Misinformation in pandemic" for one undergraduate student 
 
 
