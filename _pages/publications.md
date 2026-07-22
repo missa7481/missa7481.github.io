@@ -44,7 +44,27 @@ author_profile: true
 ## Peer-Reviewed Journal Articles
 
 {% assign journals = site.publications | where:"pub_type","journal" | sort:"date" | reverse %}
-{% for post in journals %}{% include archive-single.html %}{% endfor %}
+{% assign journal_years = journals | group_by_exp:"post", "post.date | date: '%Y'" %}
+<div class="zm-journal-years">
+{% for year in journal_years %}
+  <details class="zm-journal-year"{% if forloop.first %} open{% endif %}>
+    <summary>
+      <span class="zm-journal-year-label">{{ year.name }}</span>
+      <span class="zm-journal-count">{{ year.items | size }} {% if year.items.size == 1 %}article{% else %}articles{% endif %}</span>
+      <span class="zm-journal-toggle">View publications</span>
+    </summary>
+    <ol class="zm-journal-list">
+    {% for post in year.items %}
+      <li>
+        <h3>{% if post.link %}<a href="{{ post.link }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}</h3>
+        {% if post.citation %}<div class="zm-journal-citation">{{ post.citation }}</div>{% endif %}
+        {% if post.link %}<a class="zm-ai-paper-link" href="{{ post.link }}">View article →</a>{% endif %}
+      </li>
+    {% endfor %}
+    </ol>
+  </details>
+{% endfor %}
+</div>
 
 {% if author.googlescholar %}
   View the complete record on <u><a href="{{author.googlescholar}}">Google Scholar</a></u>.

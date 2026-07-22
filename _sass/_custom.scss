@@ -107,6 +107,22 @@ body { color:var(--zm-ink); }
 .zm-ai-paper-link { font-size:.68rem; font-weight:800; color:#161616!important; }
 .zm-ai-submissions { grid-template-columns:minmax(0,2fr) minmax(0,1fr); }
 .zm-ai-submissions .zm-ai-pub-card { grid-column:1; min-height:0; border-top-width:1px; background:#fafafa; }
+.zm-journal-years { display:grid; gap:.85rem; margin:1.4rem 0 2.5rem; }
+.zm-journal-year { border:1px solid var(--zm-line); background:#fff; }
+.zm-journal-year summary { display:grid; grid-template-columns:6rem minmax(0,1fr) auto; align-items:center; gap:1rem; padding:1.15rem 1.35rem; cursor:pointer; list-style:none; }
+.zm-journal-year summary::-webkit-details-marker { display:none; }
+.zm-journal-year summary:focus-visible { outline:2px solid #161616; outline-offset:3px; }
+.zm-journal-year-label { font:1.65rem/1 Georgia,serif; color:#161616; }
+.zm-journal-count { color:#666; font-size:.72rem; font-weight:700; }
+.zm-journal-toggle { display:flex; align-items:center; gap:.65rem; color:#333; font-size:.64rem; font-weight:800; letter-spacing:.08em; text-transform:uppercase; }
+.zm-journal-toggle::after { content:"+"; display:grid; place-items:center; width:1.65rem; height:1.65rem; border:1px solid var(--zm-line); border-radius:50%; font-size:.95rem; transition:transform .25s ease; }
+.zm-journal-year[open] .zm-journal-toggle::after { transform:rotate(45deg); }
+.zm-journal-list { margin:0; padding:0 1.35rem 1.35rem 3.5rem; border-top:1px solid var(--zm-line); }
+.zm-journal-list li { padding:1.15rem .4rem; border-bottom:1px solid var(--zm-line); }
+.zm-journal-list li:last-child { border-bottom:0; }
+.zm-journal-list h3 { margin:0 0 .55rem; font:1.05rem/1.4 Georgia,serif; }
+.zm-journal-list h3 a { color:inherit; text-decoration:none; }
+.zm-journal-citation { margin-bottom:.55rem; color:#5b616a; font-size:.74rem; line-height:1.55; }
 .zm-media-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1.25rem; margin:2rem 0; }
 .zm-media-card { display:flex; flex-direction:column; min-height:240px; padding:1.5rem; border:1px solid var(--zm-line); color:inherit!important; transition:transform .25s ease,box-shadow .25s ease; }
 .zm-media-card:hover { transform:translateY(-5px); box-shadow:0 15px 35px rgba(0,0,0,.08); }
@@ -132,5 +148,5 @@ body { color:var(--zm-ink); }
 .page__content blockquote { border-left:3px solid var(--zm-accent); background:var(--zm-soft); padding:1.1rem 1.3rem; }
 @keyframes zm-rise { from{opacity:0;transform:translateY(16px)} to{opacity:1;transform:none} }
 @media(max-width:900px){.zm-ai-pub-grid{grid-template-columns:1fr 1fr}.zm-ai-submissions .zm-ai-pub-card{grid-column:1/-1}}
-@media(max-width:700px){.zm-focus-grid,.zm-research-grid,.zm-media-grid,.zm-fund-grid,.zm-ai-pub-grid{grid-template-columns:1fr}.zm-hero h1{font-size:1.9rem}.zm-actions{align-items:flex-start;flex-direction:column}.zm-research-accordion summary{grid-template-columns:2rem minmax(0,1fr);padding:1.1rem}.zm-pillar-action{grid-column:2}.zm-pillar-projects{padding:0 1rem 1rem}.zm-ai-pub-card{min-height:0}}
-@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}.zm-hero,.zm-pillar-projects{animation:none}.archive__item,.zm-focus-grid article,.archive__item-teaser img,.zm-research-accordion,.zm-pillar-action::after,.zm-ai-pub-card{transition:none}}
+@media(max-width:700px){.zm-focus-grid,.zm-research-grid,.zm-media-grid,.zm-fund-grid,.zm-ai-pub-grid{grid-template-columns:1fr}.zm-hero h1{font-size:1.9rem}.zm-actions{align-items:flex-start;flex-direction:column}.zm-research-accordion summary{grid-template-columns:2rem minmax(0,1fr);padding:1.1rem}.zm-pillar-action{grid-column:2}.zm-pillar-projects{padding:0 1rem 1rem}.zm-ai-pub-card{min-height:0}.zm-journal-year summary{grid-template-columns:1fr auto;padding:1rem}.zm-journal-count{grid-column:1}.zm-journal-toggle{grid-column:2;grid-row:1/3}.zm-journal-toggle{font-size:0}.zm-journal-list{padding:0 1rem 1rem 2.5rem}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}.zm-hero,.zm-pillar-projects{animation:none}.archive__item,.zm-focus-grid article,.archive__item-teaser img,.zm-research-accordion,.zm-pillar-action::after,.zm-ai-pub-card,.zm-journal-toggle::after{transition:none}}
