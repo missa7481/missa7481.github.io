@@ -82,6 +82,14 @@ body { color:var(--zm-ink); }
 .zm-media-card h2 { border:0; margin:.8rem 0; font-size:1.4rem; }
 .zm-media-card p { font-size:.82rem; line-height:1.55; color:#555; }
 .zm-media-card b { margin-top:auto; font-size:.72rem; }
+.zm-fund-section { margin:2rem 0 3.5rem; }
+.zm-fund-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; }
+.zm-fund-card { padding:1.35rem; border:1px solid var(--zm-line); background:#fff; }
+.zm-fund-card.featured { border-top:3px solid #161616; }
+.zm-fund-card .status { display:inline-block; margin-bottom:.75rem; padding:.3rem .55rem; background:var(--zm-soft); font-size:.62rem; font-weight:800; letter-spacing:.1em; text-transform:uppercase; }
+.zm-fund-card h3 { margin:.1rem 0 .65rem; font:1.15rem/1.35 Georgia,serif; }
+.zm-fund-card p { margin:.3rem 0; font-size:.78rem; line-height:1.5; color:#555; }
+.zm-fund-card strong { color:#161616; }
 .archive__item { border-top:1px solid var(--zm-line); padding:1.4rem 0; transition:padding .25s ease,background .25s ease; }
 .archive__item:hover { padding-left:.8rem; background:linear-gradient(90deg,rgba(0,0,0,.045),transparent 70%); }
 .archive__item-title { font-family:Georgia,serif; letter-spacing:-.02em; }
@@ -91,5 +99,5 @@ body { color:var(--zm-ink); }
 .btn--research:hover { transform:translateY(-2px); box-shadow:0 8px 20px rgba(0,0,0,.16); }
 .page__content blockquote { border-left:3px solid var(--zm-accent); background:var(--zm-soft); padding:1.1rem 1.3rem; }
 @keyframes zm-rise { from{opacity:0;transform:translateY(16px)} to{opacity:1;transform:none} }
-@media(max-width:700px){.zm-focus-grid,.zm-research-grid,.zm-media-grid{grid-template-columns:1fr}.zm-hero h1{font-size:1.9rem}.zm-actions{align-items:flex-start;flex-direction:column}}
+@media(max-width:700px){.zm-focus-grid,.zm-research-grid,.zm-media-grid,.zm-fund-grid{grid-template-columns:1fr}.zm-hero h1{font-size:1.9rem}.zm-actions{align-items:flex-start;flex-direction:column}}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}.zm-hero{animation:none}.archive__item,.zm-focus-grid article,.archive__item-teaser img{transition:none}}

@@ -9,6 +9,9 @@ main:
   - title: "Online Media"
     url: /media/
 
+  - title: "Funds"
+    url: /funds/
+
   - title: "Teaching"
     url: /teaching/
 
