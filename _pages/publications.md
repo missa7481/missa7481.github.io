@@ -17,8 +17,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Peer-Reviewed Journal Articles
+
+{% assign journals = site.publications | where:"pub_type","journal" | sort:"date" | reverse %}
+{% for post in journals %}{% include archive-single.html %}{% endfor %}
+
+## Selected Top AI Conference Papers
+
+{% assign ai_conferences = site.publications | where:"pub_type","ai_conference" | sort:"date" | reverse %}
+{% for post in ai_conferences %}{% include archive-single.html %}{% endfor %}
 
 <sup>*</sup> Equal authorship

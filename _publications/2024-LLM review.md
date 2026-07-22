@@ -2,6 +2,7 @@
 title: "A Bibliometric Review of Large Language Models Research from 2017 to 2023"
 collection: publications
 pillar: reason
+pub_type: journal
 permalink: /publication/2024-LLM review
 date: 2024-04-15
 venue: 'ACM Transactions on Intelligent Systems and Technology'

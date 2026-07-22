@@ -2,6 +2,7 @@
 title: "Dynamic assessment of the COVID-19 vaccine acceptance leveraging social media data"
 collection: publications
 pillar: sense
+pub_type: journal
 permalink: /publication/2022-vaccine
 date: 2022-03-24
 venue: 'Journal of Biomedical Informatics'
