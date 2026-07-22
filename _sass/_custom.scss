@@ -53,7 +53,9 @@ body { color:var(--zm-ink); }
 .page__title { font-family:Georgia,serif; font-size:clamp(2.2rem,5vw,4rem); letter-spacing:-.045em; color:var(--zm-ink); }
 .page__content h2 { font-family:Georgia,serif; color:var(--zm-ink); border-bottom:1px solid var(--zm-line); padding-bottom:.5rem; }
 .zm-hero { padding:1.5rem 0 3.3rem; border-bottom:1px solid var(--zm-line); margin-bottom:2.2rem; animation:zm-rise .7s ease both; }
-.zm-hero h1 { margin:.8rem 0 1rem; max-width:760px; font:700 clamp(1.75rem,3vw,2.65rem)/1.08 Georgia,serif; letter-spacing:-.035em; color:#56606f; }
+.zm-appointment { max-width:850px; margin:0 0 1.15rem; font:1rem/1.7 Georgia,serif; color:#25282d; }
+.zm-hero h1 { margin:0 0 1rem; max-width:760px; font:700 clamp(1.75rem,3vw,2.65rem)/1.08 Georgia,serif; letter-spacing:-.035em; color:#56606f; }
+.zm-hero h1 + .zm-kicker { margin-bottom:1rem; }
 .zm-kicker { margin:0; color:#555; font-size:.67rem; font-weight:800; letter-spacing:.15em; }
 .zm-lead,.zm-research-intro { max-width:800px; font:1.18rem/1.65 Georgia,serif; color:#4b5361; }
 .zm-actions { display:flex; gap:1.4rem; align-items:center; margin-top:1.6rem; font-size:.78rem; font-weight:800; }

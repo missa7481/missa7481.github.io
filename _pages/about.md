@@ -9,13 +9,12 @@ redirect_from:
 ---
 
 <section class="zm-hero">
-  <p class="zm-kicker">HUMAN-CENTERED AI · GEOSPATIAL INTELLIGENCE · RESILIENT INFRASTRUCTURE</p>
+  <p class="zm-appointment">I am a Postdoctoral Fellow at Emory University in the Department of Environmental Sciences and a Postdoctoral Research Associate at the University of Maryland (UMD). I am also an affiliated researcher with New York University (NYU), where I previously served as a Faculty Fellow at the Center for Urban Science and Progress (CUSP). I received my Ph.D. in Civil and Environmental Engineering from UMD in 2024.</p>
   <h1>Building intelligence for cities under pressure.</h1>
+  <p class="zm-kicker">HUMAN-CENTERED AI · GEOSPATIAL INTELLIGENCE · RESILIENT INFRASTRUCTURE</p>
   <p class="zm-lead">I develop AI systems that transform complex human, geospatial, and infrastructure data into practical insight for resilient and equitable decision-making.</p>
   <div class="zm-actions"><a href="/research/" class="zm-primary">Explore research</a><a href="/publications/">View publications →</a></div>
 </section>
-
-I am a Postdoctoral Fellow at Emory University in the Department of Environmental Sciences and a Postdoctoral Research Associate at the University of Maryland (UMD). I am also an affiliated researcher with New York University (NYU), where I previously served as a Faculty Fellow at the Center for Urban Science and Progress (CUSP). I received my Ph.D. in Civil and Environmental Engineering from UMD in 2024.
 
 <div class="zm-focus-grid">
   <a href="/research/sense/"><span>01</span><h3>Sense</h3><p>Capture real-time human, environmental, and infrastructure signals from social media, mobility, remote sensing, and technical records.</p><b>Related research & publications →</b></a>
