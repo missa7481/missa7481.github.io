@@ -22,7 +22,9 @@ author_profile: true
 {% assign journals = site.publications | where:"pub_type","journal" | sort:"date" | reverse %}
 {% for post in journals %}{% include archive-single.html %}{% endfor %}
 
-## Selected Top AI Conference Papers
+## Selected Top AI Conference Papers and Submissions
+
+Accepted papers and clearly labeled submissions to leading AI, NLP, and data-mining venues listed in my curriculum vitae.
 
 {% assign ai_conferences = site.publications | where:"pub_type","ai_conference" | sort:"date" | reverse %}
 {% for post in ai_conferences %}{% include archive-single.html %}{% endfor %}
