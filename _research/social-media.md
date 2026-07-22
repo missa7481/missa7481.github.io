@@ -4,6 +4,7 @@ layout: single-portfolio
 excerpt: "<img src='/images/research/dam.png' alt=''>"
 collection: research
 order_number: 40
+pillar: act
 header: 
   og_image: "research/dam.png"
 ---

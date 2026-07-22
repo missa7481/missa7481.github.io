@@ -3,6 +3,7 @@ title: "Geospatially Grounded LLM Agents"
 layout: single-portfolio
 collection: research
 order_number: 1
+pillar: reason
 ---
 
 This project gives large-language-model agents access to spatial context so they can reason about terrain, infrastructure, communities, and evolving wildfire conditions. It moves agentic AI beyond text-only inference by treating location as a first-class reasoning layer.

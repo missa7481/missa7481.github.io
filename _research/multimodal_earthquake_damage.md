@@ -3,6 +3,7 @@ title: "Multimodal Earthquake Damage Evaluation"
 layout: single-portfolio
 collection: research
 order_number: 7
+pillar: sense
 ---
 
 Rapid earthquake assessment is limited by sparse ground sensors and delayed official reporting. This project investigates whether multimodal, multilingual social-media observations can provide complementary, fine-grained evidence immediately after an event.

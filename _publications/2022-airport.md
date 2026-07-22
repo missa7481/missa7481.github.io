@@ -1,6 +1,7 @@
 ---
 title: "How has airport service quality changed in the context of COVID-19: A data-driven crowdsourcing approach based on sentiment analysis"
 collection: publications
+pillar: sense
 permalink: /publication/2022-airport
 date: 2022-10-01
 venue: 'Journal of Air Transport Management'

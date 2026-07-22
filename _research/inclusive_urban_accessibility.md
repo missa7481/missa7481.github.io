@@ -3,6 +3,7 @@ title: "Crowdsourced Intelligence for Inclusive Urban Accessibility"
 layout: single-portfolio
 collection: research
 order_number: 6
+pillar: act
 ---
 
 Traditional accessibility surveys are valuable but expensive and geographically limited. This project uses large-scale online reviews to identify where residents experience persistent barriers across everyday urban services.

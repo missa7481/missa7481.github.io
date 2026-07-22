@@ -3,6 +3,7 @@ title: "LLM-Augmented Semantic Digital Twins"
 layout: single-portfolio
 collection: research
 order_number: 2
+pillar: reason
 ---
 
 This research develops semantic digital twins that connect technical documents, system models, and evolving project knowledge for adaptive infrastructure planning.

@@ -1,6 +1,7 @@
 ---
 title: "Data-driven investigations of using social media to aid evacuations amid Western United States wildfire season"
 collection: publications
+pillar: act
 permalink: /publication/2021-evacuation
 date: 2021-12-01
 venue: 'Fire Safety Journal'

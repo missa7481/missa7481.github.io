@@ -3,6 +3,7 @@ title: "Adaptive Cross-City Disaster Sentiment Learning"
 layout: single-portfolio
 collection: research
 order_number: 4
+pillar: sense
 ---
 
 Social-media models often reproduce urban bias because data-rich cities dominate online discussion while rural and disadvantaged communities remain underrepresented. This project develops a context-sensitive framework for more equitable disaster sentiment understanding.

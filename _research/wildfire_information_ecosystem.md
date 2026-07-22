@@ -3,6 +3,7 @@ title: "Wildfire Information Ecosystems and Political Polarization"
 layout: single-portfolio
 collection: research
 order_number: 5
+pillar: sense
 ---
 
 Wildfire communication now unfolds in a digital environment shaped by political identity, engagement ranking, and polarized online communities. This project studies how these structural conditions influence institutional trust during crises.

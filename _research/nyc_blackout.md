@@ -4,6 +4,7 @@ layout: single-portfolio
 excerpt: "<img src='/images/research/nyc.png' alt=''>"
 collection: research
 order_number: 20
+pillar: sense
 header: 
   og_image: "research/nyc.png"
 ---

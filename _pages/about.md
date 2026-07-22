@@ -18,9 +18,9 @@ redirect_from:
 I am a Postdoctoral Fellow at Emory University in the Department of Environmental Sciences and a Postdoctoral Research Associate at the University of Maryland (UMD). I am also an affiliated researcher with New York University (NYU), where I previously served as a Faculty Fellow at the Center for Urban Science and Progress (CUSP). I received my Ph.D. in Civil and Environmental Engineering from UMD in 2024.
 
 <div class="zm-focus-grid">
-  <article><span>01</span><h3>Sense</h3><p>Capture real-time human, environmental, and infrastructure signals from social media, mobility, remote sensing, and technical records.</p></article>
-  <article><span>02</span><h3>Reason</h3><p>Build grounded and interpretable AI using LLM agents, multimodal learning, semantic digital twins, and spatial models.</p></article>
-  <article><span>03</span><h3>Act</h3><p>Translate evidence into situational awareness, equitable planning, risk management, and adaptive public decisions.</p></article>
+  <a href="/research/sense/"><span>01</span><h3>Sense</h3><p>Capture real-time human, environmental, and infrastructure signals from social media, mobility, remote sensing, and technical records.</p><b>Related research & publications →</b></a>
+  <a href="/research/reason/"><span>02</span><h3>Reason</h3><p>Build grounded and interpretable AI using LLM agents, multimodal learning, semantic digital twins, and spatial models.</p><b>Related research & publications →</b></a>
+  <a href="/research/act/"><span>03</span><h3>Act</h3><p>Translate evidence into situational awareness, equitable planning, risk management, and adaptive public decisions.</p><b>Related research & publications →</b></a>
 </div>
 
 My work spans interdisciplinary collaborations and federally supported initiatives, including projects funded by NASA and the U.S. Department of Defense. It has appeared in journals including *Sustainable Cities and Society*, *International Journal of Disaster Risk Reduction*, *ACM Transactions on Intelligent Systems and Technology*, *Journal of Biomedical Informatics*, and *Journal of Construction Engineering and Management*, and at conferences including AAAI, ACL, and EMNLP.

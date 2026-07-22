@@ -13,7 +13,19 @@ header:
 
 <div class="zm-method-strip"><span>LLM agents</span><span>Geospatial AI</span><span>Semantic digital twins</span><span>Multimodal learning</span><span>Disaster informatics</span></div>
 
-***
+## Research Highlights
+
+{% include base_path %}
+{% assign ordered_pages = site.research | sort:"order_number" %}
+
+### Sense
+<div class="grid__wrapper zm-research-grid">{% for post in ordered_pages %}{% if post.pillar == "sense" %}{% include archive-single.html type="grid" %}{% endif %}{% endfor %}</div>
+
+### Reason
+<div class="grid__wrapper zm-research-grid">{% for post in ordered_pages %}{% if post.pillar == "reason" %}{% include archive-single.html type="grid" %}{% endif %}{% endfor %}</div>
+
+### Act
+<div class="grid__wrapper zm-research-grid">{% for post in ordered_pages %}{% if post.pillar == "act" %}{% include archive-single.html type="grid" %}{% endif %}{% endfor %}</div>
 
 ## Professional Services
 * **Journal Article Reviewer**
@@ -25,19 +37,3 @@ header:
 * **Conference Proceeding Reviewer**
   * 12NCEE National Conference on Earthquake Engineering
 
-***
-
-## Online Media
-* Our research work reported by [Engineering at Maryland](https://eng.umd.edu/disaster-pending)
-
-***
-
-## Research Highlights
-<nbsp>
-
-{% include base_path %}
-{% assign ordered_pages = site.research | sort:"order_number" %}
-
-{% for post in ordered_pages %}
-  {% include archive-single.html %}
-{% endfor %}

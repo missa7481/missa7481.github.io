@@ -1,6 +1,7 @@
 ---
 title: "ChatGPT in education: A discourse analysis of worries and concerns on social media"
 collection: publications
+pillar: reason
 permalink: /publication/2023-ChatGPT
 date: 2023-10-11
 venue: 'Education and Information Technologies'

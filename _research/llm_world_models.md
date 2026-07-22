@@ -3,6 +3,7 @@ title: "LLMs as Human-Centered World Models"
 layout: single-portfolio
 collection: research
 order_number: 3
+pillar: reason
 ---
 
 This project explores LLMs as data-driven world models for simulating how communities and infrastructure may experience a disaster before it occurs.
