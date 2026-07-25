@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zihui Ma"
 title_separator          : "-"
 name                     : &name "Zihui Ma,Ph.D."
-description              : &description "Postdoc fellow @Emory @ UMD"
+description              : &description "Postdoctoral Researcher at UMD and Emory University · Affiliated Researcher at NYU"
 url                      : https://missa7481.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "missa7481/missa7481.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Zihui Ma,Ph.D."
   avatar           : "profile.png"
-  bio              : "Postdoc Fellow @ UMD"
+  bio              : "Postdoctoral Researcher at UMD and Emory University · Affiliated Researcher at NYU"
   location         :
   employer         :
   pubmed           :
