@@ -26,6 +26,8 @@ My work spans interdisciplinary collaborations and federally supported initiativ
 
 
 ## Awards
+* STEM Teaching Fellowship ($1,500), Emory School of Medicine, 2026.
+* 2026 Blavatnik Regional Awards for Young Scientists — selected as New York University’s candidate, 2025.
 * Arthur M. Wellington Prize, ASCE, 2024.
 * [Thomas Fitch Rowland Prize](https://www-asce-org.proxy-um.researchport.umd.edu/career-growth/awards-and-honors/thomas-fitch-rowland-prize), ASCE’s Construction Institute, 2024.
 * Future Faculty Fellowship (travel fund $2500), University of Maryland, College Park, 2022.
